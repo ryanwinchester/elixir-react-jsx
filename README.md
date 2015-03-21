@@ -1,11 +1,11 @@
 # Laravel Elixir - React JSX transforming
 
-`npm install elixir-jsx --save-dev`
+`npm install elixir-react-jsx --save-dev`
 
 ```
 var elixir = require('laravel-elixir');
 
-require('elixir-jsx');
+require('elixir-react-jsx');
 
 elixir(function(mix) {
 
