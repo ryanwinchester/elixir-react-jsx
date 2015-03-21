@@ -1,0 +1,30 @@
+{
+  "name": "elixir-jsx",
+  "version": "1.0.0",
+  "description": "Laravel Elixir extension to transform React JSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fungku/elixir-jsx.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "gulp",
+    "react",
+    "jsx"
+  ],
+  "author": "Ryan Winchester (fungku) <fungku@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-concat": "^2.5.2",
+    "gulp-react": "^3.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/fungku/elixir-jsx/issues"
+  },
+  "homepage": "https://github.com/fungku/elixir-jsx"
+}
