@@ -1,6 +1,6 @@
 {
-  "name": "elixir-jsx",
-  "version": "1.0.1",
+  "name": "elixir-react-jsx",
+  "version": "1.0.2",
   "description": "Laravel Elixir extension to transform React JSX",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "gulp-react": "^3.0.1"
   },
   "bugs": {
-    "url": "https://github.com/fungku/elixir-jsx/issues"
+    "url": "https://github.com/fungku/elixir-react-jsx/issues"
   },
-  "homepage": "https://github.com/fungku/elixir-jsx"
+  "homepage": "https://github.com/fungku/elixir-react-jsx"
 }
