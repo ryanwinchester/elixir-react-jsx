@@ -1,8 +1,8 @@
 # Laravel Elixir - React JSX transforming
 
-[![Version](https://img.shields.io/npm/v/elixir-react-jsx.svg)](https://www.npmjs.com/package/elixir-react-jsx) 
+[![Version](https://img.shields.io/npm/v/elixir-react-jsx.svg)](https://www.npmjs.com/package/elixir-react-jsx)
  [![License](https://img.shields.io/npm/l/elixir-react-jsx.svg)](https://www.npmjs.com/package/elixir-react-jsx)
- [![Monthly downloads](https://img.shields.io/npm/dm/elixir-react-jsx.svg)](https://www.npmjs.com/package/elixir-react-jsx) 
+ [![Monthly downloads](https://img.shields.io/npm/dm/elixir-react-jsx.svg)](https://www.npmjs.com/package/elixir-react-jsx)
 
 `npm install elixir-react-jsx --save-dev`
 
@@ -22,7 +22,7 @@ elixir(function(mix) {
 });
 ```
 
-By default, that is the same as using `mix.jsx('resources/assets/jsx/*.jsx', 'app-react.js', 'public/js')`.
+By default, that is the same as using `mix.jsx('resources/assets/jsx/*.jsx', 'public/js')`.
 
 Arguments:
  - input src

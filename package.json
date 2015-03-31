@@ -1,6 +1,6 @@
 {
   "name": "elixir-react-jsx",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Laravel Elixir extension to transform React JSX",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "gulp-concat": "^2.5.2",
+    "gulp-if": "^1.2.5",
     "gulp-react": "^3.0.1"
   },
   "bugs": {
