@@ -22,9 +22,26 @@ elixir(function(mix) {
 });
 ```
 
-By default, that is the same as using `mix.jsx('resources/assets/jsx/*.jsx', 'app-react.js', 'public/js')`.
+By default, using `mix.js()` is the same as using:
+
+```js
+mix.jsx('resources/assets/jsx/*.jsx', 'app-react.js', 'public/js');
+```
 
 Arguments:
+
  - input src
  - output filename
  - destination directory
+
+e.g.
+
+```js
+var inputSrc = 'resources/assets/jsx/*.jsx';
+var destFile = 'app-react.js';
+var destDir  = 'public/js';
+
+mix.jsx(inputSrc, destFile, destDir);
+```
+
+
