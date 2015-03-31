@@ -1,8 +1,8 @@
 # Laravel Elixir - React JSX transforming
 
-[![Version](https://img.shields.io/npm/v/elixir-react-jsx.svg)](https://www.npmjs.com/package/elixir-react-jsx) 
- [![License](https://img.shields.io/npm/l/elixir-react-jsx.svg)](https://www.npmjs.com/package/elixir-react-jsx)
- [![Monthly downloads](https://img.shields.io/npm/dm/elixir-react-jsx.svg)](https://www.npmjs.com/package/elixir-react-jsx) 
+[![Version](https://img.shields.io/npm/v/elixir-react-jsx.svg?style=flat-square)](https://www.npmjs.com/package/elixir-react-jsx) 
+ [![License](https://img.shields.io/npm/l/elixir-react-jsx.svg?style=flat-square)](https://www.npmjs.com/package/elixir-react-jsx)
+ [![Monthly downloads](https://img.shields.io/npm/dm/elixir-react-jsx.svg?style=flat-square)](https://www.npmjs.com/package/elixir-react-jsx) 
 
 `npm install elixir-react-jsx --save-dev`
 
