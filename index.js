@@ -4,7 +4,7 @@ var react = require('gulp-react');
 var concat = require('gulp-concat');
 
 elixir.extend("jsx", function(src, outputFile, dest) {
-    src = src || 'resources/assets/jsx/**/*.jsx';
+    src = src || 'resources/assets/jsx/*.jsx';
     dest = dest || 'public/js';
     outputFile = outputFile || 'app-react.js';
 

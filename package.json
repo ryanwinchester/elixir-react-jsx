@@ -1,6 +1,6 @@
 {
   "name": "elixir-react-jsx",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Laravel Elixir extension to transform React JSX",
   "main": "index.js",
   "scripts": {
