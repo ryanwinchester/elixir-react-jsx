@@ -22,7 +22,7 @@ elixir(function(mix) {
 });
 ```
 
-By default, using `mix.js()` is the same as using:
+By default, using `mix.js()` without any arguments is the same as using:
 
 ```js
 mix.jsx('resources/assets/jsx/*.jsx', 'app-react.js', 'public/js');
