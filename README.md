@@ -3,7 +3,9 @@
 [![Version](https://img.shields.io/npm/v/elixir-react-jsx.svg?style=flat-square)](https://www.npmjs.com/package/elixir-react-jsx)
  [![License](https://img.shields.io/npm/l/elixir-react-jsx.svg?style=flat-square)](https://www.npmjs.com/package/elixir-react-jsx)
  [![Monthly downloads](https://img.shields.io/npm/dm/elixir-react-jsx.svg?style=flat-square)](https://www.npmjs.com/package/elixir-react-jsx)
-
+ 
+ ## No longer being maintained!
+ 
 `npm install elixir-react-jsx --save-dev`
 
 Then require `elixir-react-jsx` in your gulpfile, and you can use `mix.jsx()`.
