@@ -6,6 +6,10 @@
  
  ## No longer being maintained!
  
+ I'll merge PRs as you want, but it would be better to fork.
+ 
+ ## Install
+ 
 `npm install elixir-react-jsx --save-dev`
 
 Then require `elixir-react-jsx` in your gulpfile, and you can use `mix.jsx()`.
